@@ -1,0 +1,6 @@
+[error] /Users/alihamed/Documents/projects/src/main/scala/problems.scala:18:19: type mismatch;
+[error]  found   : String
+[error]  required: Int
+[error]         case _ => s"I am a String."
+[error]                   ^
+[error] one error found
